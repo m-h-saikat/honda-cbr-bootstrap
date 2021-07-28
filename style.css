@@ -1,0 +1,26 @@
+/* Font Import  */
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+</style>
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    color: #FFFFFF;
+    font-weight: 600;
+font-size: 48px;
+}
+header p {
+    color: #FFFFFF;
+    font-weight: 300;
+font-size: 14px;
+}
+.header-details{
+    color: #E0E0E0
+}
+i{
+    color: #E77C40;
+}
