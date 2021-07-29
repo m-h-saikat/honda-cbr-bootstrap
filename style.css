@@ -63,3 +63,13 @@ i{
 .fa-star{
     color: #E76F51;
 }
+.foter a{
+   text-decoration: none;
+   color: white;
+   margin-left: 24px;
+   margin-bottom:12px ;
+}
+small{
+    color:#FFFFFF ;
+    
+}
