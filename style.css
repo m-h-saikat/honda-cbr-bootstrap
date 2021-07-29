@@ -13,6 +13,10 @@ h1{
     font-weight: 600;
 font-size: 48px;
 }
+h2{
+    font-weight: 600;
+font-size: 48px;
+}
 header p {
     color: #FFFFFF;
     font-weight: 300;
@@ -23,4 +27,39 @@ font-size: 14px;
 }
 i{
     color: #E77C40;
+}
+.btn-danger {
+    background-color:#E76F51;!important
+}
+.Another-color-text{
+    color: #E76F51;
+  
+
+}
+.btn-read-more{
+    border: 1px solid #E76F51;
+    color:#E76F51;!important
+
+}
+.btn-read-more:hover{
+    color: #FFFFFF;
+    background-color:#E76F51 ;
+}
+.card-text{
+    color: #6C6C6C;
+}
+ .Client-Name{
+     color: #23A6F0;
+   
+     
+ }
+.client img:hover{
+    transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -o-transform: scale(1.5);
+}
+.fa-star{
+    color: #E76F51;
 }
